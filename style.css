@@ -34,7 +34,8 @@ body {
 
 .paragraph-1 {
     text-align: center;
-    color: lightseagreen;
+    color: rgb(85, 83, 83);
+    font-weight: 700;
     padding-left: 300px;
     padding-right: 300px;
 }
